@@ -1,0 +1,3 @@
+Johnny;Cash;MALE;123213213;informatyka;8
+Jan;Kowalski;MALE;432432;informatyka;0
+Anna;Maria;FEMALE;4324322222;muzyka;2
